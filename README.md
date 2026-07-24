@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0904-fruit-into-baskets) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0344-reverse-string) |
