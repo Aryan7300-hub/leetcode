@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1929-concatenation-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
