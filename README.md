@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0647-palindromic-substrings) |
