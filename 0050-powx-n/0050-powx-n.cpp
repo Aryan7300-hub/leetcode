@@ -1,12 +1,12 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-       long exp = n;
-       if(exp<0){
-        x = 1/x;
-        exp = -exp;
-       }
-       return power(x, exp, 1);
+        long exp = n;
+        if(exp < 0){
+            x = 1/x;
+            exp = -exp;
+        }
+        return power(x, exp,1);
     }
 private:
     double power(double x, long n, double ans){
