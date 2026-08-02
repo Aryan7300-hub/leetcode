@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
