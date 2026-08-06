@@ -11,36 +11,31 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return NULL;
 
-        while(lists.size()>1){
-            lists.push_back(merge(lists[0], lists[1]));
-            lists.erase(lists.begin());
-            lists.erase(lists.begin());
+        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, greater<pair<int, ListNode*>>> pq;
+        
+        for(int i = 0; i<lists.size(); i++){
+            if(lists[i]){
+                pq.push({lists[i]->val, lists[i]});
+            }
         }
-        return lists.front();
-    }
-private:
-    ListNode* merge(ListNode* l1, ListNode* l2){
-        if(!l1) return l2;
-        if(!l2) return l1;
 
-        ListNode* dummy = new ListNode(0);
+        ListNode* dummy = new ListNode(-1);
         ListNode* curr = dummy;
 
-        while(l1 && l2){
-            if(l1->val <= l2->val){
-                curr->next = l1;
-                l1 = l1->next;
-            }else{
-                curr->next = l2;
-                l2 = l2->next;
+        while(!pq.empty()){
+
+            auto it = pq.top();
+            pq.pop();
+            if(it.second ->next){
+                pq.push({it.second->next->val, it.second->next});
             }
+
+            curr->next = it.second;
             curr = curr->next;
         }
-
-        if(l1) curr->next = l1;
-        if(l2) curr->next = l2;
+        
+        //curr->next = NULL;
 
         return dummy->next;
     }
