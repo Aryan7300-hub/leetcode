@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -220,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0061-rotate-list) |
@@ -248,5 +251,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0148-sort-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
