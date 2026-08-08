@@ -5,13 +5,12 @@ public:
         vector<int>ans(n, -1);
         stack<int>s;
 
-        for(int i =2* n-1; i>=0; i--){
-
+        for(int i = 2*n-1 ; i >= 0; i--){
             int num = nums[i%n];
             while(!s.empty() && s.top() <= num){
                 s.pop();
             }
-            if(i<n && !s.empty()){
+            if(!s.empty() && i<n){
                 ans[i] = s.top();
             }
             s.push(num);
