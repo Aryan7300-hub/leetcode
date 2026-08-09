@@ -6,7 +6,7 @@ public:
         char op = '+';
 
         for(int i = 0; i<=s.length(); i++){
-            char ch = (i==s.length()) ? '+' : s[i];
+            char ch = (i == s.length())? '+' : s[i];
 
             if(isdigit(ch)){
                 num = num*10 + (ch-'0');
@@ -26,6 +26,7 @@ public:
                 op = ch;
                 num = 0;
             }
+            
         }
 
         int ans = 0;
