@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
