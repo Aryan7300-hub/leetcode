@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0198-house-robber) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0234-palindrome-linked-list) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
