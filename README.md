@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
