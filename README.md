@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,12 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1929-concatenation-of-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
