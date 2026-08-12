@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0085-maximal-rectangle) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
