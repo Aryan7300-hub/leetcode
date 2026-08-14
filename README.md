@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
