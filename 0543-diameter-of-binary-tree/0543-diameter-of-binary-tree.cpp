@@ -10,41 +10,20 @@
  * };
  */
 class Solution {
-    
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        int diameter = 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* node = q.front();
-            q.pop();
-            int left = height(node->left);
-            int right = height(node->right);
-            diameter = max(diameter, left+ right);
-            if(node->left) q.push(node->left);
-            if(node->right) q.push(node->right);
-        }
+    int diameter = 0;
 
+    int diameterOfBinaryTree(TreeNode* root) {
+        height(root);
         return diameter;
     }
 private:
     int height(TreeNode* root){
-        int h = 0;
         if(root == NULL) return 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            int size = q.size();
-            while(size--){
-                TreeNode* node = q.front();
-                q.pop();
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-            h++;
-        }
+        int left = height(root->left);
+        int right = height(root->right);
+        diameter =max(diameter, left+right);
 
-        return h;
+        return 1+ max(left, right);
     }
 };
