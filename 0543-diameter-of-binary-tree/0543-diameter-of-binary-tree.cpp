@@ -12,7 +12,6 @@
 class Solution {
 public:
     int diameter = 0;
-
     int diameterOfBinaryTree(TreeNode* root) {
         height(root);
         return diameter;
@@ -20,10 +19,12 @@ public:
 private:
     int height(TreeNode* root){
         if(root == NULL) return 0;
+
         int left = height(root->left);
         int right = height(root->right);
-        diameter =max(diameter, left+right);
 
-        return 1+ max(left, right);
+        diameter = max(diameter, left+right);
+
+        return max(left, right)+1;
     }
 };
