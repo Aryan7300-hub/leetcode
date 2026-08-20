@@ -11,33 +11,32 @@
  */
 class Solution {
 public:
+    vector<vector<int>>ans;
+    vector<vector<int>>nodes;
+
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root == NULL) return ans;
+        dfs(root, 0, 0);
 
-        map<int,map<int, multiset<int>>>mp;
-        queue<tuple<TreeNode*, int, int>>q;
-        q.push({root, 0, 0});
+        sort(nodes.begin(), nodes.end());
 
-        while(!q.empty()){
-            auto [node, row, col] = q.front();
-            q.pop();
+        int prevCol = INT_MAX;
 
-            mp[col][row].insert(node->val);
-
-            if(node->left) q.push({node->left, row+1, col-1});
-            if(node->right) q.push({node->right, row+1, col+1});
+        for(auto &node: nodes){
+            if(node[0] != prevCol){
+                ans.push_back({});
+                prevCol = node[0];
+            }
+            ans.back().push_back(node[2]);
         }
 
-       for(auto &col : mp){
-            vector<int>temp;
-            for(auto &row: col.second){
-                for(int val: row.second)
-                    temp.push_back(val);
-            }
-            ans.push_back(temp);
-       }
-
         return ans;
+    }
+private:
+    void dfs(TreeNode* root, int row, int col){
+        if(!root) return;
+        nodes.push_back({col, row, root->val});
+
+        dfs(root->left, row+1, col-1);
+        dfs(root->right, row+1, col+1);
     }
 };
