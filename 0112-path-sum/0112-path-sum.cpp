@@ -12,13 +12,21 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-     if(!root) return false;
-     if(!root->left && !root->right){
-        return targetSum == root->val;
-     }   
-     bool leftSum = hasPathSum(root->left, targetSum - root->val);
-     bool rightSum = hasPathSum(root->right, targetSum - root->val);
+        if(!root) return false;
 
-     return leftSum || rightSum;
+        queue<pair<TreeNode*, int>>q;
+        q.push({root, targetSum});
+
+        while(!q.empty()){
+            auto [curr, sum] = q.front();
+            q.pop();
+            if(!curr->left && !curr->right && curr->val == sum){
+                return true;
+            }
+            if(curr->left) q.push({curr->left, sum-curr->val});
+            if(curr->right) q.push({curr->right, sum-curr->val});
+        }
+
+        return false;
     }
 };
