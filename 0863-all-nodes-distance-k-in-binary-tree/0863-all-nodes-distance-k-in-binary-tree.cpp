@@ -13,7 +13,7 @@ public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         buildParent(root, NULL);
 
-        queue<TreeNode*>q;
+        queue<TreeNode*> q;
         unordered_set<TreeNode*> visited;
         
         q.push(target);
@@ -22,15 +22,16 @@ public:
 
         while(!q.empty()){
             if(dis == k) break;
+
             int size = q.size();
 
             while(size--){
-                TreeNode* curr = q.front();
+                TreeNode* node = q.front();
                 q.pop();
 
-                if(curr->left && visited.insert(curr->left).second) q.push(curr->left);
-                if(curr->right && visited.insert(curr->right).second) q.push(curr->right);
-                if(parent[curr] && visited.insert(parent[curr]).second) q.push(parent[curr]);
+                if(node->left && visited.insert(node->left).second) q.push(node->left);
+                if(node->right && visited.insert(node->right).second) q.push(node->right);
+                if(parent[node] && visited.insert(parent[node]).second) q.push(parent[node]);
             }
             dis++;
         }
@@ -44,7 +45,6 @@ public:
 
         return ans;
     }
-
 private:
     void buildParent(TreeNode* root, TreeNode* par){
         if(!root) return;
