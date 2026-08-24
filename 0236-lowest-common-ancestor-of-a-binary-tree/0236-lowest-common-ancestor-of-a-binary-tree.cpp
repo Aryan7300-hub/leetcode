@@ -9,14 +9,28 @@
  */
 class Solution {
 public:
+    unordered_map<TreeNode*, TreeNode*> parent;
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root || root == p || root == q) return root;
+        buildParent(root, NULL);
+        unordered_set<TreeNode*> ancestors;
 
-        TreeNode* left = lowestCommonAncestor(root->left, p ,q);
-        TreeNode* right = lowestCommonAncestor(root->right, p ,q);
+        while(p){
+            ancestors.insert(p);
+            p = parent[p];
+        }
+        while(!ancestors.count(q)){
+            q = parent[q];
+        }
 
-        if(left && right) return root;
+        return q;
+    }
+private:
+    void buildParent(TreeNode* root, TreeNode* par){
+        if(!root) return;
 
-        return left ? left : right;
+        parent[root] = par;
+
+        buildParent(root->left, root);
+        buildParent(root->right, root);
     }
 };
