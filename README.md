@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0189-rotate-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0113-path-sum-ii) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0113-path-sum-ii) |
@@ -474,5 +478,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
