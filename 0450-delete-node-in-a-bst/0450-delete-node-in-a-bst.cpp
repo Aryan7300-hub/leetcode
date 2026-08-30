@@ -13,6 +13,7 @@ class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root) return NULL;
+
         if(root->val > key){
             root->left = deleteNode(root->left, key);
         }
@@ -22,16 +23,15 @@ public:
         else{
             if(!root->left) return root->right;
             if(!root->right) return root->left;
-            
-            TreeNode* successor = findMin(root->right);
-            root->val = successor->val;
-            root->right = deleteNode(root->right, successor->val);
+
+            TreeNode* node = findMin(root->right);
+            root->val = node->val;
+            root->right = deleteNode(root->right, node->val);
         }
         return root;
-}
+    }
 private:
     TreeNode* findMin(TreeNode* root){
-
         while(root->left){
             root = root->left;
         }
