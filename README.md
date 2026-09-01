@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
