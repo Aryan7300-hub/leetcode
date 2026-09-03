@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0567-permutation-in-string) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
