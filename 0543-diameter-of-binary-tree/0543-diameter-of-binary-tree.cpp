@@ -13,12 +13,14 @@ class Solution {
 public:
     int diameter = 0;
     int diameterOfBinaryTree(TreeNode* root) {
+        
         height(root);
         return diameter;
     }
 private:
     int height(TreeNode* root){
-        if(root == NULL) return 0;
+        if(!root)
+            return 0;
 
         int left = height(root->left);
         int right = height(root->right);
