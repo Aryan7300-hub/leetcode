@@ -19,22 +19,22 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(root == NULL) return NULL;
+        if(!root) return NULL;
 
         dfs(root);
-        
+
         return root;
     }
 private:
     void dfs(Node* root){
-        if(!root || !root->left){
+        if(!root || !root->left)
             return;
-        }
-        root->left->next = root->right;
         
-        if(root->next){
+        root->left->next = root->right;
+
+        if(root->next)
             root->right->next = root->next->left;
-        }
+
         dfs(root->left);
         dfs(root->right);
     }
