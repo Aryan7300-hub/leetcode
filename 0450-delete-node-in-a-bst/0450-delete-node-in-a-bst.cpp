@@ -12,29 +12,31 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root) return NULL;
-
-        if(root->val > key){
+        if(!root)
+            return NULL;
+        
+        if(root->val > key)
             root->left = deleteNode(root->left, key);
-        }
-        else if(root->val < key){
+        else if(root->val < key)
             root->right = deleteNode(root->right, key);
-        }
         else{
-            if(!root->left) return root->right;
-            if(!root->right) return root->left;
+            if(!root->left)
+                return root->right;
+            if(!root->right)
+                return root->left;
 
             TreeNode* node = findMin(root->right);
             root->val = node->val;
             root->right = deleteNode(root->right, node->val);
         }
+
         return root;
     }
 private:
     TreeNode* findMin(TreeNode* root){
-        while(root->left){
+        while(root->left)
             root = root->left;
-        }
+        
         return root;
     }
 };
