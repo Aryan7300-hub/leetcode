@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0724-find-pivot-index) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0733-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
