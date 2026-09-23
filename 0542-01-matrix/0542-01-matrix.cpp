@@ -9,7 +9,7 @@ public:
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(mat[i][j] == 0){
-                    q.push({i,j});
+                    q.push({i, j});
                     dist[i][j] = 0;
                 }
             }
@@ -18,7 +18,7 @@ public:
         int directions[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
         while(!q.empty()){
-            auto [r, c] = q.front();
+            auto [r,c] = q.front();
             q.pop();
 
             for(auto& dir : directions){
