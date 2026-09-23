@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -626,4 +629,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
