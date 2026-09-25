@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
