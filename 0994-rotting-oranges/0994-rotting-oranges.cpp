@@ -15,20 +15,20 @@ public:
                     fresh++;
             }
         }
-
         int min = 0;
-        int directions[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-        
-        while(!q.empty() && fresh > 0){
+        int directions[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+
+        while(!q.empty() && fresh>0){
             int size = q.size();
 
-            for(int i = 0; i<size; i++){
-                auto [r,c] = q.front();
+            for(int i = 0; i < size; i++){
+                auto [r, c] = q.front();
                 q.pop();
-                
+
                 for(auto& dir : directions){
                     int nr = r + dir[0];
                     int nc = c + dir[1];
+
                     if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc] == 1){
                         grid[nr][nc] = 2;
                         fresh--;
@@ -39,6 +39,6 @@ public:
             min++;
         }
 
-        return fresh == 0 ? min : -1;
+        return fresh == 0? min : -1;
     }
 };
