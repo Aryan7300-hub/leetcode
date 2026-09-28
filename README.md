@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0909-snakes-and-ladders](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0909-snakes-and-ladders) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0909-snakes-and-ladders](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0909-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0994-rotting-oranges) |
