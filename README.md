@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
@@ -673,4 +675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0127-word-ladder) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
