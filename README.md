@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Tree
 |  |
 | ------- |
