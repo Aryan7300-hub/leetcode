@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan7300-hub/https-github.com-Aryan7300-hub-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
