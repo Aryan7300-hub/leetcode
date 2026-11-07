@@ -16,15 +16,19 @@ public:
     }
 private:
     int height(TreeNode* root){
-        if(root == NULL) return 0;
-
+        if(!root)
+            return 0;
+        
         int left = height(root->left);
-        if(left == -1) return -1;
-
+        if(left == -1)
+            return -1;
+        
         int right = height(root->right);
-        if(right == -1) return -1;
-
-        if(abs(left - right) > 1) return -1;
+        if(right == -1)
+            return -1;
+        
+        if(abs(left-right) > 1)
+            return -1;
 
         return max(left, right)+1;
     }
